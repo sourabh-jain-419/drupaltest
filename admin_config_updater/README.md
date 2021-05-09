@@ -30,7 +30,8 @@ Once the module has been installed:-
 		( This permission is needed so that an Anonymous User with the Site Api key can access the API)
 
 3. To access the Api, 
+
 	3.a In any of the Rest client, 
 		Select method - GET
 		URL - <SiteUrl>/page_json/<SiteApiKey>/<NodeId>
-		Example - http://localhost/page_json/F/1
+		Example - http://localhost/page_json/FOOBAR12345/1
