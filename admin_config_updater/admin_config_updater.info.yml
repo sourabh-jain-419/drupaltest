@@ -1,0 +1,6 @@
+name: Admin config updater
+type: module
+description: A module to alter admin site information form and also provide a rest API
+package: Custom
+version: 1.0
+core: 8.x

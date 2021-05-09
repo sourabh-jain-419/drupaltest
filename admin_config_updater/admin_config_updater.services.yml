@@ -1,0 +1,5 @@
+services:
+  admin_config_updater.route_subscriber:
+    class: Drupal\admin_config_updater\Routing\RouteSubscriber
+    tags:
+      - { name: event_subscriber }
